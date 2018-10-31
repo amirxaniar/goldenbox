@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_idd"
+            android:title="@string/hoviyat" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_face"
+            android:title="@string/chehre" />
+        <item
+
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_didgi"
+            android:title="@string/emza" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_kod"
+            android:title="@string/estelamkod" />
+        <item
+            android:id="@+id/nav_manage2"
+            android:icon="@drawable/ic_regist"
+            android:title="@string/sabtkod" />
+        <item
+            android:id="@+id/nav_manage3"
+            android:icon="@drawable/ic_rent"
+            android:title="@string/gharadad" />
+        <item
+            android:id="@+id/nav_manage4"
+            android:icon="@drawable/ic_buy"
+            android:title="@string/gharadafo" />
+        <item
+            android:id="@+id/nav_manage5"
+            android:icon="@drawable/ic_news"
+            android:title="@string/agahi"
+            />
+        <item
+
+            android:id="@+id/nav_manage6"
+            android:icon="@drawable/ic_moshaver"
+            android:title="@string/moshaver" />
+        <item
+            android:id="@+id/nav_manage7"
+            android:icon="@drawable/ic_manage"
+            android:title="@string/modire" />
+    </group>
+</menu>
